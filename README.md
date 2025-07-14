@@ -44,5 +44,3 @@ This version of the website is a modern redesign focused on responsive layout, f
 
 ---
 
-## 📁 Folder Structure (Example)
-
