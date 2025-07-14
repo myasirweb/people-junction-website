@@ -41,5 +41,4 @@ This project is a redesign of the original People Junction website using modern 
 
 ---
 
-## 📁 Folder Structure (Example)
 
